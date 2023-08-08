@@ -22,7 +22,7 @@ install the appropriate tools and dependencies:
 
 ## Formatting
 
-aiosqlite uses *[black][]* and [usort][] for formatting code
+aiosqlite uses *[black][]* and [µsort][] for formatting code
 and imports, respectively. If your editor does not already
 support this workflow, you can manually format files:
 
@@ -50,5 +50,5 @@ that you have done the following:
 * Validated code and formatting with `make test lint`
 
 [black]: https://github.com/psf/black
-[isort]: https://timothycrosley.github.io/isort/
+[µsort]: https://github.com/facebook/usort
 [pyenv]: https://github.com/pyenv/pyenv
